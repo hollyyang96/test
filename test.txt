@@ -1,5 +1,0 @@
-first time to use git
-
-= Section 1
-
-Today is 14th May
